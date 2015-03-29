@@ -1,0 +1,4 @@
+if(language == "Scala")
+	println("You choose my favourite language")
+else 
+	println("Scala is Better")

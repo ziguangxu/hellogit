@@ -1,1 +1,3 @@
-This is my first git repo
+Hello everyone,
+
+This is my first git repo!
